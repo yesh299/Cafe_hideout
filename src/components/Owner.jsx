@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Owner() {
-  const ownerName = "Yesh Thakur";
+  const ownerName = "preeti jha";
   const contactNumber = "+91 0011223344";
   const ownerEmail = "yesh.thakur@luckyhideout.com";
 

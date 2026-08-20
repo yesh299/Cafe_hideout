@@ -3,7 +3,7 @@ import React from "react";
 export default function Owner() {
   const ownerName = "preeti jha";
   const contactNumber = "+91 0011223344";
-  const ownerEmail = "yesh.thakur@luckyhideout.com";
+  const ownerEmail = "preeti.jha@luckyhideout.com";
 
   const handleCall = () => {
     window.location.href = `tel:+0011223344`;

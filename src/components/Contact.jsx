@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   const contactInfo = {
-    ownerName: "Yesh Thakur",
+    ownerName: "preeti Jha",
     phone: "+91 0011223344",
     whatsapp: "+91 0011223344",
     email: "yesh.thakur@luckyhideout.com",
